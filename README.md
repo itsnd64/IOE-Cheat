@@ -11,4 +11,5 @@ anyways,how to use:
 6.open a supported ioe game and start the game  
 7.find "startgame" and click on it  
 8.click Payload then view source  
-9.triple click the text you see and paste it on  
+9.triple click the text you see and paste it on the cmd window
+10.wait for the result and that it!
