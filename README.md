@@ -1,4 +1,4 @@
-# Idk what to write here
+# um i cant put my private openapi key on github so...wait for me to fix it
 just some hacks for ioe i made  
 nothing special
 
